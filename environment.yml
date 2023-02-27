@@ -7,4 +7,5 @@ dependencies:
 - yt=4.1.4
 - cartopy
 - matplotlib
+- jupyterlab
 

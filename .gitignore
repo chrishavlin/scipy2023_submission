@@ -131,3 +131,10 @@ dmypy.json
 
 # tmp linux
 *.swp
+
+# pycharm 
+*.idea
+
+
+# data
+*.nc
