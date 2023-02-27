@@ -1,0 +1,10 @@
+# run: conda env create --file environment.yml
+name: yt_xarray_scipy2023
+dependencies:
+- python>=3.9
+- pip
+- numpy
+- yt=4.1.4
+- cartopy
+- matplotlib
+
